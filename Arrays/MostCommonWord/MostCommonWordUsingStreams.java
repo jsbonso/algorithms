@@ -31,7 +31,7 @@ class MostCommonWordUsingStreams {
         
         Map<String,Integer> count = new HashMap<>();
 
-        Arrays.stream(paragraph.replaceAll("[^a-zA-Z0-9]+"," ").split(" "))
+        Arrays.stream(paragraph.replaceAll("[^a-zA-Z0-9]+"," ").split("\\s+"))
             .map(String::toLowerCase)
             // .peek(System.out::println)
             .filter(word -> !bannedSet.contains(word))
