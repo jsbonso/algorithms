@@ -75,4 +75,3 @@ class LRUCacheUsingLinkedHashMap extends LinkedHashMap<Integer, Integer> {
     }
 }
 
-https://leetcode.com/problems/lru-cache/description/
