@@ -2,9 +2,9 @@
 
 1. Breadth-First Search
 2. Depth-First Search
-   2.a.  Pre-Order 
-   2.b.   In-Order
-   2.c. Post-Order
+   - 2.a.  Pre-Order 
+   - 2.b.   In-Order
+   - 2.c. Post-Order
 
 # Core Concepts
 
