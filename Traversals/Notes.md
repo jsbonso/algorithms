@@ -13,9 +13,9 @@
 
 
 3. Depth-First Search
-   2.a.  Pre-Order 
-   2.b.   In-Order
-   2.c. Post-Order
+   - 2.a.  Pre-Order 
+   - 2.b.   In-Order
+   - 2.c. Post-Order
 
 # Visualization Tools:
 
